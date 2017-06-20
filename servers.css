@@ -1,0 +1,52 @@
+.navbar {
+    overflow: hidden;
+   border: 10px solid dodgerblue;
+    background-color: dodgerblue;
+    height: 100px;
+}
+
+.navitem {
+    font-size: 70px;
+    font-family: Lato;
+    overflow: hidden;
+    border-right: 2px solid grey;
+    background-color: inherit;
+    width: 30px;
+    height: 10px;
+    text-decoration: none;
+    color: crimson;
+}
+
+.navitem:hover {
+    background-color: grey;
+}
+
+.navimg {
+    overflow: hidden;
+    border-right: 2px solid grey;
+    width: 30px;
+    height: 10px;
+}
+
+.credits {
+    background: linear-gradient(to right, darkblue, blue, dodgerblue);
+    height: 70px;
+    text-align: center;
+}
+
+.serveramount {
+    font-family: Lato;
+    font-size: 60px;
+    color: black;
+}
+
+.serverlist {
+    font-family: Lato;
+    font-size: 50px;
+}
+
+.con { 
+    text-align: center;
+    background: linear-gradient(purple , crimson);
+    border-radius: 10px;
+}

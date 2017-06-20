@@ -1,0 +1,116 @@
+.title {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    line-height: 80px;
+    font-family: Lato;
+    text-align: center;
+    border-bottom: 15px solid blue;
+}
+
+.info { 
+    text-align: center;
+    background: linear-gradient(purple , crimson);
+    border-radius: 10px;
+}
+
+.infotitle {
+    font-family: Lato;
+    font-size: 70px;
+    color: black;
+}
+
+.addbot {
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    font-family: Lato;
+    border-color: blueviolet;
+    height: auto;
+    width: auto;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    border-radius: 10px;
+}
+
+.addbot:hover {
+    background: #6f182a;
+}
+
+.livechat {}
+
+.credits {
+    background: linear-gradient(to right, darkblue, blue, dodgerblue);
+    height: 70px;
+    text-align: center;
+}
+
+.starred-server {
+    text-align: center;
+    color: orangered; 
+    font-family: Lato;
+    font-size: 70px;
+}
+
+.livechatbutton {
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    font-family: Lato;
+    border-color: blueviolet;
+    height: auto;
+    width: 300px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.livechatbutton:hover {
+    background-color: #6f182a;
+}
+
+.desc {
+    font-family: Lato;
+    font-size: 50px;
+}
+
+.serveramount {
+    font-family: Lato;
+    font-size: 60px;
+    color: black;
+}
+
+.serverlist {
+    font-family: Lato;
+    font-size: 50px;
+}
+
+.navbar {
+    overflow: hidden;
+   border: 10px solid dodgerblue;
+    background-color: dodgerblue;
+    height: 100px;
+}
+
+.navitem {
+    font-size: 70px;
+    font-family: Lato;
+    overflow: hidden;
+    border-right: 2px solid grey;
+    background-color: inherit;
+    width: 30px;
+    height: 10px;
+    text-decoration: none;
+    color: crimson;
+}
+
+.navitem:hover {
+    background-color: grey;
+}
+
+.navimg {
+    overflow: hidden;
+    border-right: 2px solid grey;
+    width: 30px;
+    height: 10px;
+}
