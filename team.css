@@ -1,0 +1,58 @@
+.title {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    line-height: 80px;
+    font-family: Lato;
+    text-align: center;
+}
+
+.teamboard {
+    text-align: center;
+    background: linear-gradient(yellow, orange, red);
+    height: 400px;
+    width: 1350px;
+    border-radius: 10px;
+}
+
+.owner-element {
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    font-family: Lato;
+    border-color: blueviolet;
+    height: auto;
+    width: auto;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.navbar {
+    overflow: hidden;
+    border: 10px solid dodgerblue;
+    background-color: dodgerblue;
+    height: 100px;
+}
+
+.navitem {
+    font-size: 70px;
+    font-family: Lato;
+    overflow: hidden;
+    border-right: 2px solid grey;
+    background-color: inherit;
+    width: 30px;
+    height: 10px;
+    text-decoration: none;
+    color: crimson;
+}
+
+.navitem:hover {
+    background-color: grey;
+}
+
+.credits {
+    background: linear-gradient(to right, darkblue, blue, dodgerblue);
+    height: 70px;
+    text-align: center;
+}
